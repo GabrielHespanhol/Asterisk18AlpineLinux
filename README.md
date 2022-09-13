@@ -7,7 +7,6 @@
 #### Está habilitado o /metrics para utilização do prometheus.
 
 
-
 ## Para executar o container utilize o seguinte comando: 
 ```
 $ docker run --name myasterisk -d -p 5060:5060 myimagename
