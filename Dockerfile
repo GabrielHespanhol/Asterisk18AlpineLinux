@@ -2,6 +2,7 @@ FROM alpine
 
 LABEL maintainer="Gabriel Lopes Hespanhol"
 LABEL version="1.0"
+LABEL create="Imagem criada 12-09-2022"
 
 RUN apk update \
     && apk add asterisk \
